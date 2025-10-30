@@ -51,6 +51,7 @@
 |[SQL Murder mistery](https://mystery.knightlab.com/walkthrough.html) | Não | Não | SQL | Site com explicação/tutoriais interativos de sql que com os resultados ajudam a resolver um mistério |
 |[Top Coder](https://www.topcoder.com)| Sim | ------ | Diversas, depende do desafio | Voltado para programação competitiva, onde se pode competir com os outros resolvendo desafios o mais rápido possível para ter as melhores pontuações.|
 |[Try Hack me](https://tryhackme.com/) | Sim | Sim | |Site com desafios e tutorias de segurança |
+|[7 Days Of Code](https://7daysofcode.io/) | Não | Não | | Coloque em prática os seus conhecimentos em desafios diários da Alura |
 
 # IDE's online
 - *Caso queira estudar linguagens e não possa ou não queira instalar uma IDE, existem essas online*
@@ -83,6 +84,7 @@
 |[Carbon](https://carbon.vercel.app/)| Não | Diversas | Site para criar e compartilhar bonitas imagens do seu codigo
 |[Thunkable](https://thunkable.com/#//)| Não | No-code | Plataforma para aprendizado e prototipação de aplicativos mobile.
 |[Diciotech](https://diciotech.netlify.app)| Não | Diversas | O Diciotech é um dicionário tech online colaborativo e open source. Nossa missão é ajudar pessoas de todos os níveis a entenderem termos e conceitos relacionados à tecnologia de forma clara e simples.
+|[Developer Roadmaps](https://roadmap.sh/)| Não | Diversas | Roteiros, guias e outros conteúdos educacionais para ajudar a orientar os desenvolvedores e seus aprendizados.
 
 
 # Extras
